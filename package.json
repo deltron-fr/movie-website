@@ -1,0 +1,16 @@
+{
+    "name": "movie-website",
+    "version": "1.0.0",
+    "description": "A simple vanilla JavaScript application",
+    "main": "app.js",
+    "scripts": {
+      "start": "echo 'No start script defined'",
+      "test": "echo 'No test script defined'"
+    },
+    "keywords": [],
+    "author": "Deltron",
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {}
+  }
+  
